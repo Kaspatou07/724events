@@ -2,7 +2,7 @@
   "name": "724-events",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kaspatou07.github.io/724events",
+  "homepage": "https://Kaspatou07.github.io/724events",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
